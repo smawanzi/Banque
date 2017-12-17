@@ -1,0 +1,7 @@
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\compte\banque\banque\bin\Debug\banque.exe
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\compte\banque\banque\bin\Debug\banque.pdb
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\compte\banque\banque\obj\x86\Debug\banque.exe
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\compte\banque\banque\obj\x86\Debug\banque.pdb
+U:\Option Slam\SLAM2\SLAM 2 2016-2017\compte\banque\banque\obj\x86\Debug\banque.csprojResolveAssemblyReference.cache
+C:\Users\Stéphane\Desktop\INFORMATIQUE\progOO\banque\banque\obj\x86\Debug\banque.exe
+C:\Users\Stéphane\Desktop\INFORMATIQUE\progOO\banque\banque\obj\x86\Debug\banque.pdb
